@@ -32,7 +32,9 @@ env.bak/
 venv.bak/
 pip-selfcheck.json
 /instance/
-flaskr/__pycache__/
+.__pycache__
+venv/
+
 
 ### VisualStudioCode ###
 .vscode/*
